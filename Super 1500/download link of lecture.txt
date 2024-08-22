@@ -1,0 +1,168 @@
+master.m3u8
+
+#DBMS SUPER 1500
+L1: https://d1d34p8vz63oiq.cloudfront.net/5b58f1c7-24b9-412f-bf22-8c5d2357b026/dash/audio/18.master.m3u8
+
+L2: https://d1d34p8vz63oiq.cloudfront.net/15485c7a-ea13-4388-aebd-8bee47d64c56/dash/audio/18.mp4
+
+L3: https://d1d34p8vz63oiq.cloudfront.net/f991fc33-602b-44ae-92c7-c29d0fee212f/dash/audio/18.mp4
+
+L4: https://d1d34p8vz63oiq.cloudfront.net/856dd160-625c-4a6f-bdc9-1c299eee4e63/dash/audio/18.mp4
+
+L5:https://d1d34p8vz63oiq.cloudfront.net/6ddc62e6-2cea-498b-8c0c-01d1a7662335/dash/audio/18.mp4
+
+L6: https://d1d34p8vz63oiq.cloudfront.net/79724e5f-de59-4e15-bf36-b31033a7dbcc/dash/audio/18.mp4
+
+L7: https://d1d34p8vz63oiq.cloudfront.net/6bb9d196-8cd6-4cb1-939a-f927eca3e568/dash/audio/18.mp4
+
+L8: https://d1d34p8vz63oiq.cloudfront.net/d5f2a792-151f-4603-8b33-5ab8dcee8adc/dash/audio/18.mp4
+
+#Operating System
+L1:https://d1d34p8vz63oiq.cloudfront.net/0ef98af0-998d-4d52-bbb5-d871aefb88dc/dash/audio/18.mp4
+
+L2: https://d1d34p8vz63oiq.cloudfront.net/d0cb8163-ba72-4c34-9f31-de11faa14710/dash/audio/18.mp4
+
+L3: 
+https://d1d34p8vz63oiq.cloudfront.net/251f3fff-773c-46cb-a9c4-1a88f53e9b26/dash/audio/18.mp4
+
+L4:
+https://d1d34p8vz63oiq.cloudfront.net/cdf7daf7-7e87-4e61-94d5-64bfe644cb0c/dash/audio/18.mp4
+
+#Compiler Design
+L1: https://d1d34p8vz63oiq.cloudfront.net/c53762e3-8db0-4456-98f0-76d2017973b5/dash/audio/18.mp4
+
+L2: https://d1d34p8vz63oiq.cloudfront.net/a512fbc5-4b99-4823-a950-122f09873f91/dash/audio/18.mp4
+
+L3: https://d1d34p8vz63oiq.cloudfront.net/7805221c-39d0-495b-a113-d13a52321fa3/dash/audio/18.mp4
+
+L4: https://d1d34p8vz63oiq.cloudfront.net/6332f416-6ed5-4877-b0e7-9cc824d9ceae/dash/audio/18.mp4
+
+L5: https://d1d34p8vz63oiq.cloudfront.net/4582c6a2-e171-428d-a38f-cc915f0e37e5/dash/audio/18.mp4
+
+#Discreate Math
+L1: https://d1d34p8vz63oiq.cloudfront.net/85a55678-17e1-4e78-9096-f57c79cb3bc0/dash/audio/18.mp4
+
+L2: https://d1d34p8vz63oiq.cloudfront.net/69496d86-cd52-4cfe-baf4-48f1568cf66b/dash/audio/18.mp4
+
+L3: https://d1d34p8vz63oiq.cloudfront.net/01472a8d-292d-4d32-bc11-f8702626fe09/dash/audio/18.mp4
+
+L4: https://d1d34p8vz63oiq.cloudfront.net/0a506d38-6a94-4456-b204-b1dda727b2d6/dash/audio/18.mp4
+
+L5: https://d1d34p8vz63oiq.cloudfront.net/1516e1ae-1cbf-4cab-a928-12ecfa0d5a91/dash/audio/18.mp4
+
+L6: https://d1d34p8vz63oiq.cloudfront.net/f530f74d-fbf7-4849-84a5-8e8b044e65ba/dash/audio/18.mp4
+
+L7: https://d1d34p8vz63oiq.cloudfront.net/e51ceb2a-7a37-4ad2-856b-4186f297afcf/dash/audio/18.mp4
+
+L8: https://d1d34p8vz63oiq.cloudfront.net/92990e89-364e-4c04-8f75-c17f8022a5b1/dash/audio/18.mp4
+
+L9: https://d1d34p8vz63oiq.cloudfront.net/0c3656e4-3ccd-40e6-a22d-84805832583f/dash/audio/18.mp4
+
+#COA
+L1: https://d1d34p8vz63oiq.cloudfront.net/fc2044a3-1c68-4228-9bc9-6ee8b6d0c339/dash/audio/18.mp4
+
+L2: https://d1d34p8vz63oiq.cloudfront.net/4e986aac-4d82-4b0d-9c79-057fa93717af/dash/audio/18.mp4
+
+L3: 
+https://d1d34p8vz63oiq.cloudfront.net/ba7faa46-0292-49a0-9d11-de07a2453b5b/dash/audio/18.mp4
+
+L4: 
+https://d1d34p8vz63oiq.cloudfront.net/9f3b5314-7ee9-4a1c-a3e7-df68581ce2c8/dash/audio/18.mp4
+
+L5: https://d1d34p8vz63oiq.cloudfront.net/03a699a2-1c9a-4b7a-ad40-2233257ab086/dash/audio/18.mp4
+
+L6: https://d1d34p8vz63oiq.cloudfront.net/a0525124-6ea6-4c5f-901c-0fc13c996033/dash/audio/18.mp4
+
+L7: https://d1d34p8vz63oiq.cloudfront.net/dd34144a-a8c4-45ed-8220-6a4412aa31a8/dash/audio/18.mp4
+
+#Engg Math
+L1:https://d1d34p8vz63oiq.cloudfront.net/96c0dd5e-96bf-4801-9377-11e80591dd40/dash/audio/18.mp4
+
+L2: https://d1d34p8vz63oiq.cloudfront.net/69d13adb-bec4-40f8-b11a-bd668866a047/dash/audio/18.mp4
+
+L3: https://d1d34p8vz63oiq.cloudfront.net/521551f1-ecc8-45c9-bf04-d5703c52d7c4/dash/audio/18.mp4
+
+L4: https://d1d34p8vz63oiq.cloudfront.net/4a81d77c-f8af-48fc-99cb-1981172c2925/dash/audio/18.mp4
+
+L5: https://d1d34p8vz63oiq.cloudfront.net/c03fb01c-aced-409a-90b8-89b366d265fc/dash/audio/18.mp4
+
+L6: https://d1d34p8vz63oiq.cloudfront.net/ceeedaac-97f8-443e-9f59-c33bde9aa1bf/dash/audio/18.mp4
+
+L7: https://d1d34p8vz63oiq.cloudfront.net/04ab85eb-a365-4c0f-b26f-8120b3af1250/dash/audio/18.mp4
+
+L8: https://d1d34p8vz63oiq.cloudfront.net/04ab85eb-a365-4c0f-b26f-8120b3af1250/dash/audio/18.mp4
+
+L9: https://d1d34p8vz63oiq.cloudfront.net/dd21b8f0-c190-4f32-8acd-43d295c912b2/dash/audio/18.mp4
+
+---------------------------------------------------------------------------
+#Digital Logic 
+L1: https://d1d34p8vz63oiq.cloudfront.net/c7a70cc2-979a-466d-98fe-1d7d8125fb2d/dash/audio/18.mp4
+
+L2: https://d1d34p8vz63oiq.cloudfront.net/6a017847-176f-4421-b276-a78efc11e442/dash/audio/18.mp4
+
+L3: https://d1d34p8vz63oiq.cloudfront.net/c914d0fd-9745-4420-99be-913029d01535/dash/audio/18.mp4
+
+L4: https://d1d34p8vz63oiq.cloudfront.net/6ec00928-dddd-453a-99c2-cb174c70c5da/dash/audio/18.mp4
+
+L5: https://d1d34p8vz63oiq.cloudfront.net/11b05e3f-bdb8-4aaa-a907-a33f35bf4c03/dash/audio/18.mp4
+
+L6: https://d1d34p8vz63oiq.cloudfront.net/d7ca8977-2ae3-4a07-9677-e9e578d39a22/dash/audio/18.mp4
+
+L7: https://d1d34p8vz63oiq.cloudfront.net/68ff8e94-3311-4b5f-9104-4bfa52f0be7e/dash/audio/18.mp4
+
+L8: https://d1d34p8vz63oiq.cloudfront.net/953520c2-9b2f-4717-a02a-016ce8a1e584/dash/audio/18.mp4
+
+L9: https://d1d34p8vz63oiq.cloudfront.net/831e8621-87a0-4837-81eb-3b4d9170e189/dash/audio/18.mp4
+
+#Theory Of Computation
+L1: https://d1d34p8vz63oiq.cloudfront.net/07ee57a6-2347-42cd-b852-b78836101da9/dash/audio/18.mp4
+
+L2: https://d1d34p8vz63oiq.cloudfront.net/30415153-adba-4842-baef-5a71de8a615a/dash/audio/18.mp4
+
+L3: https://d1d34p8vz63oiq.cloudfront.net/96905bad-d8dc-4c25-bb97-c91fc431aee1/dash/audio/18.mp4
+
+L4: https://d1d34p8vz63oiq.cloudfront.net/b06694d5-6dc6-4c14-b935-48fe895acd4a/dash/audio/18.mp4
+
+L5: https://d1d34p8vz63oiq.cloudfront.net/29a04e94-99e6-41ff-a5b9-54e563aa69e1/dash/audio/18.mp4
+
+L6: https://d1d34p8vz63oiq.cloudfront.net/5dd866c1-0e67-48df-a108-60b911c827dc/dash/audio/18.mp4
+
+L7: https://d1d34p8vz63oiq.cloudfront.net/555b17bf-2a55-456e-949a-a25eec071c6c/dash/audio/18.mp4
+
+L8: https://d1d34p8vz63oiq.cloudfront.net/f43b341c-9797-488c-aff0-769aabe15721/dash/audio/18.mp4
+
+L9: https://d1d34p8vz63oiq.cloudfront.net/8b573dc3-ce57-4cec-a676-9bef5e533450/dash/audio/18.mp4
+
+L10: https://d1d34p8vz63oiq.cloudfront.net/2b17dccf-10ba-4f59-a148-1cf1f5877624/dash/audio/18.mp4
+
+#Computer Network
+L1: https://d1d34p8vz63oiq.cloudfront.net/33191e83-0008-4d35-a15c-a3b88bd58395/dash/audio/18.mp4
+
+L2: https://d1d34p8vz63oiq.cloudfront.net/bab3f998-70cb-46bb-9975-99915ca02436/dash/audio/18.mp4
+
+L3: https://d1d34p8vz63oiq.cloudfront.net/a12203f6-ee65-4ea3-8583-1ae15d46cf56/dash/audio/18.mp4
+
+L4: https://d1d34p8vz63oiq.cloudfront.net/644f156e-645b-4454-b884-f6c3baff9600/dash/audio/18.mp4
+
+L5: https://d1d34p8vz63oiq.cloudfront.net/09202254-a550-4712-8451-b4b290f4a1c0/dash/audio/18.mp4
+
+L6:https://d1d34p8vz63oiq.cloudfront.net/666aa825-a80a-4862-a3a8-ff6b2609e755/dash/audio/18.mp4
+
+L7:
+https://d1d34p8vz63oiq.cloudfront.net/511f191a-091b-442a-b90e-21e496f7941f/dash/audio/18.mp4
+
+L8: 
+https://d1d34p8vz63oiq.cloudfront.net/6b1bfa8c-570a-4928-a7bb-88b7af7a875b/dash/audio/18.mp4
+
+
+#Data structure
+L1: 
+https://d1d34p8vz63oiq.cloudfront.net/df023479-ca1f-48d9-b6d0-ddb56bb039a5/dash/audio/18.mp4
+L2:
+https://d1d34p8vz63oiq.cloudfront.net/38c65a9f-6621-4811-8781-863332e98e1e/dash/audio/18.mp4
+L3: 
+https://d1d34p8vz63oiq.cloudfront.net/64ffeafc-26de-4a49-bafb-254628bb40ba/dash/audio/18.mp4
+L4:
+https://d1d34p8vz63oiq.cloudfront.net/09e59b60-0222-44c2-9358-61b0c068c8a5/dash/audio/18.mp4
+L5: 
+https://d1d34p8vz63oiq.cloudfront.net/692a8a9d-700e-4ee5-80f8-7ee1fd6ca849/dash/audio/18.mp4
