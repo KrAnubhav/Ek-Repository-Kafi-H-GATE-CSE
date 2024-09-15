@@ -19,4 +19,15 @@ Also Other Repository that might help You...
 7. Arka-h: https://github.com/Arka-h/GATE-CS-quiz-generator 
 8. souvikcseiitk: https://github.com/souvikcseiitk/gate_cse_gpt [in Python]
 
+Youtube Channel You Should Follow
+1. Rahuram Chanthrakumar : https://www.youtube.com/@rahuramchanthrakumar
+2. GATE And Tech : https://www.youtube.com/@gateandtechofficial/videos
+3. Hum Jeetenge Meditation: https://www.youtube.com/@HJmed/videos
+
+List of Best Test Series:
+1. Go Classes: https://www.goclasses.in/s/pages/testseries
+
+Note: This is my old test series link of PW
+link: https://www.pw.live/study/test-series?childUrl=%2Ftest-series%2F64b269bf7984bdc77b4c842b%2Fmode%2F64b26c2d9efe1d991d739b6b
+
 
