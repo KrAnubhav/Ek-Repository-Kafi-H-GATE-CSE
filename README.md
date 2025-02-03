@@ -1,5 +1,7 @@
 # Ek-Repository-Kafi-H-GATE-CSE
 
+All In One: https://docs.google.com/spreadsheets/d/16tLynkzfPnXHAzoGlS3W8SrRW4grA3_LmCBqzKWqH9c/edit?usp=drivesdk
+
 Best Website For Practice PYQ's
 1. Practice Paper: https://practicepaper.in/gate-cse
 2. Solution Adda: https://solutionsadda.in/gate1/
